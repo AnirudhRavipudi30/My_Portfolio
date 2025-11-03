@@ -2,3 +2,6 @@ data/interest_vs_default.csv
 data/interest_vs_default.csv
 data/interest_vs_default.csv
 data/interest_vs_default.csv
+
+# Large artifacts
+projects/Healthcare-ClinicalExplorer/data/clinical_notes_curated.csv
